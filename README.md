@@ -1,7 +1,8 @@
 # Network Intrusion Detection System (NIDS) using Random Forest
 This project presents a Machine Learning-based Network Intrusion Detection System (NIDS) using a labeled dataset to identify malicious network activity. Built and tested in IBM Watson Studio, the system classifies traffic as either normal or anomalous using a Random Forest classifier.
-
- 1.Features
+ 
+ 
+   1.Features
 Uses KDD-based dataset with 42 network traffic features.
 
 Applies feature encoding, train-test split, and model training using Scikit-learn.
